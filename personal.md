@@ -4,7 +4,7 @@ For now, this project is mainly for personal use. Not even necessarily targeted 
 
 First task:
 
-- create a simple news feed page with a list of news articles and a way to filter them by source, topic, or date.
-- create a simple economic calendar page with a list of economic events and a way to filter them by country, event type, or date.
+- create a simple macroeconomics calendar page with a list of macroeconomic events and a way to filter them by country, event type, or date.
+- add AI commentary and analysis to the macroeconomics calendar page.
 - create a simple journal page with a list of journal entries and a way to add new journal entries.
 - create a simple notes page with a list of notes and a way to add new notes.
